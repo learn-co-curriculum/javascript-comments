@@ -10,6 +10,18 @@ JavaScript Comments
 
 When programming, it's often useful to be able to document what we're thinking — maybe for someone else who might read the code, or just for ourselves later. We don't necessarily want this documentation to run or influence the code in any way, but we want to add some notes _right next to the code_ for safe keeping. This is where comments come in.
 
+## Why comment?
+
+Not only do comments allow us to express the intent of our program in natural language (which is, naturally, easier for ourselves and others to reason about), allowing us to communicate the intent of our program to people who have never seen it before; comments also help us to identify subtle misunderstandings before they become bugs.
+
+Think of it this way: often, we feel that we have understood a problem and implemented a good solution. Say we're making a cake, and we want it to be fluffier — we've heard of fluffy omelets, so we think that adding an extra egg or two to the cake might be the solution we're looking for.
+
+But then when we say this aloud — outside of the realm of the recipe and the baking process — we realize that blindly adding eggs to a cake might not achieve the desired result. Our cake's lack of fluffiness is due to something else.
+
+Comments work similarly. We might _assume_ that a program works in a certain way, but when we describe how it works aloud (or in comments), we realize that we've misunderstood something fundamental — and now we can correct our misunderstanding before it turns into a bug.
+
+Also, you'll see comments throughout the lessons on Learn — we want to make sure that you're familiar with them.
+
 ## Comments in JavaScript
 
 JavaScript supports two ways of demarcating comments: `//` and `/**/`.
@@ -39,7 +51,6 @@ But I'm no longer a comment (and will cause an error)!
 We get an error:
 
 ![error](https://curriculum-content.s3.amazonaws.com/skills-based-js/comment%20error.png)
-
 
 **Top Tip**: Errors aren't something to be afraid of. They look scary with their boisterous red type and aggressive names, but they're here to help us. We'll learn more about errors and how to use them as we go through the course.
 
