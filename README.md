@@ -26,7 +26,7 @@ Also, you'll see comments throughout the lessons on Learn — we want to make su
 
 JavaScript supports two ways of demarcating comments: `//` and `/**/`.
 
-### `//`
+### Single Line Syntax: `//`
 
 `//` makes everything following it _on the same line_ into a comment.
 
@@ -60,7 +60,7 @@ We get an error:
 1 + 2 // nothing before the `//` is a comment, so it will run; but this comment is just fine -- by the way, the answer is 3
 ```
 
-### `/**/`
+### Comment Block Syntax: `/**/`
 
 You might notice a beautiful symmetry with this comment mark — and indeed, it splits nicely in two. The first half, `/*` tells us where the _comment block_ starts; the second half `*/` tells us that it's ended.
 
