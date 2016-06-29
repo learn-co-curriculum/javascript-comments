@@ -50,7 +50,7 @@ But I'm no longer a comment (and will cause an error)!
 
 We get an error:
 
-![error](https://curriculum-content.s3.amazonaws.com/skills-based-js/comment%20error.png)
+![error](https://curriculum-content.s3.amazonaws.com/skills-based-js/comment_error.png)
 
 **Top Tip**: Errors aren't something to be afraid of. They look scary with their boisterous red type and aggressive names, but they're here to help us. We'll learn more about errors and how to use them as we go through the course.
 
