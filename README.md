@@ -3,8 +3,8 @@ JavaScript Comments
 
 ## Objectives
 
-- Explain comments in programming languages
-- Use the two kinds of JavaScript comments
+1. Explain comments in programming languages
+2. Use the two kinds of JavaScript comments
 
 ## What is a comment?
 
@@ -86,3 +86,5 @@ I'm not a comment
 ```
 
 In this case, it's up to you whether `/**/` or `//` makes more sense.
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/javascript-comments'>JavaScript Comments</a> on Learn.co and start learning to code for free.</p>
