@@ -40,7 +40,7 @@ Hmm... nothing happened.
 
 **EXACTLY!**
 
-Comments are how we document our code. They might seem boring, and you might wonder why we're not learning about "real" coding — but comments are real code. The most difficult thing about reading code is understanding it — comments give us ways of communicating the intent of our code to anyone who might read it (including ourselvesafter some time away from it), and so they serve a vital function for helping others understand our code.
+Comments are how we document our code. They might seem boring, and you might wonder why we're not learning about "real" coding — but comments are real code. The most difficult thing about reading code is understanding it — comments give us ways of communicating the intent of our code to anyone who might read it (including ourselves after some time away from it), and so they serve a vital function for helping others understand our code.
 
 What happens if we make a mistake when entering a comment? Say we forget the `//`:
 
@@ -86,3 +86,5 @@ I'm not a comment
 ```
 
 In this case, it's up to you whether `/**/` or `//` makes more sense.
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/javascript-comments'>JavaScript Comments</a> on Learn.co and start learning to code for free.</p>
