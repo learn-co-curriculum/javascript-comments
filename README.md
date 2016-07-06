@@ -3,8 +3,8 @@ JavaScript Comments
 
 ## Objectives
 
-- Explain comments in programming languages
-- Use the two kinds of JavaScript comments
+1. Explain comments in programming languages
+2. Use the two kinds of JavaScript comments
 
 ## What is a comment?
 
