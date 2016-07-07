@@ -64,7 +64,7 @@ We get an error:
 
 You might notice a beautiful symmetry with this comment mark — and indeed, it splits nicely in two. The first half, `/*` tells us where the _comment block_ starts; the second half `*/` tells us that it's ended.
 
-Enter the following in console:
+Enter the following in console (you'll need to use `shift + enter` to enter a newline instead of evaluating the code):
 
 ```javascript
 /*
