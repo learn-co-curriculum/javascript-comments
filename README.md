@@ -30,7 +30,7 @@ JavaScript supports two ways of demarcating comments: `//` and `/**/`.
 
 `//` makes everything following it _on the same line_ into a comment.
 
-Enter the following in console (remember how to open it up? In Chrome: `cmd` + `option` + `j`):
+Enter the following in console (remember how to open it up? In Chrome: `cmd` + `option` + `j` on a Mac, or `ctrl` + `shift` + `j` for Windows):
 
 ``` javascript
 // I'm a comment!
